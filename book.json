@@ -1,0 +1,32 @@
+{
+    
+    "styles": {
+        "website": "styles/website.css"
+    },
+
+    
+    "plugins": [
+        "back-to-top-button", 
+        "katex",
+        "chapter-fold",
+        "code" ,
+        "splitter",
+
+        "-lunr", 
+          "-search", 
+          "search-pro",
+
+        "insert-logo"
+    ],
+
+    "pluginsConfig": {
+        "insert-logo": {
+          "url": "images/logo.png",
+          "style": "background: none; max-height: 30px; min-height: 30px"
+        }
+    }
+ 
+  
+
+}
+   
