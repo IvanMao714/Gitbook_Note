@@ -1,4 +1,9 @@
 {
+
+    "title": "Gitbook使用教程",
+    "author" : "Ivan Mao",
+    "description" : "学习Gitbook时总结的笔记",
+    "language" : "zh-hans",
     
     "styles": {
         "website": "styles/website.css"
@@ -25,6 +30,8 @@
           "style": "background: none; max-height: 30px; min-height: 30px"
         }
     }
+    
+    
  
   
 

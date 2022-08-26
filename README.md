@@ -8,4 +8,4 @@ GitBook 不是 Markdown 编辑工具，也不是 Git 版本管理工具。市面
 
 
 
-详情请见：[Gitbook](https://ivanmao714.github.io/Gitbook_note)
+详情请见：[Gitbook](https://ivanmao714.github.io/Gitbook)

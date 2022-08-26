@@ -16,9 +16,10 @@ GLOSSARY.html       chapter1            chapter2            gitbook             
 ### 5.2 创建 gh-pages 分支
 
 ```
-git add _book
+git init //在_book目录
+git add -A
 git commit -m "Publish book"
-git push -u origin gh-pages
+git push -f 仓库地址.git master:gh-pages
 ```
 
 书籍的内容已经上传到 GitHub 上，所以通过访问 ivanmao714.github.io/Gitbook就可以阅读 test 这本书了！
